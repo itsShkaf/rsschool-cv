@@ -1,4 +1,4 @@
-#vitali biruk0ou
+#vitali birukou
 ##Junior Frontend Developer
 
 ##Contact information:
